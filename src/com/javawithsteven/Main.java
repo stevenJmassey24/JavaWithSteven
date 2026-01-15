@@ -1,5 +1,7 @@
 package com.javawithsteven;
 
+import java.util.Scanner;
+
 public class Main {
     public static  void main (String[] args) {
         System.out.println("Hello World");
@@ -119,5 +121,17 @@ public class Main {
         2. || - Logical or operator - returns true if any one condition is true
         3. ! - Logical not - reverse the result from true to false and vice versa
          */
+
+        //Taking user input in Java
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter Input :");
+        String input = scan.nextLine();
+        System.out.println(input);
+
+        Scanner scan1 = new Scanner(System.in);
+        System.out.println("Enter a integer :");
+        int input1 = scan1.nextInt();
+        System.out.println(input1);
+
     }
 }
