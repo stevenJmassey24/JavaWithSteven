@@ -1,6 +1,6 @@
 package com.javawithsteven;
 
-public class javatutorial1{
+public class Javatutorial1 {
     public static void main (String[] args) {
         System.out.println("Steven Massey");
 
@@ -17,9 +17,9 @@ public class javatutorial1{
         System.out.println(Name1 + " FROM\t" + domain );
         System.out.println(Name1 + " FROM\n" + domain );
 
-        System.out.println(Name1.contains("eve"));
+        //System.out.println(Name1.contains("eve"));
         System.out.println(Name1.charAt(2));
-        System.out.println(Name1.endsWith("ve"));
+        //System.out.println(Name1.endsWith("ve"));
         System.out.println(Name1.indexOf("sha"));
         System.out.println(Name1.indexOf("tev"));
 
