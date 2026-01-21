@@ -46,7 +46,7 @@ public class JavaMethodandMiniCalculator {
                 System.out.println(numb1 / numb2);
                 break;
             default:
-                System.out.println("This is not a valid option.");
+                System.out.println("This is not a valid option. Kindly add a correct option.");
         }
 
     }
