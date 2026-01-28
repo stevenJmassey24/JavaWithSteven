@@ -39,6 +39,6 @@ public class JavaTypeCasting {
 
         double percentage = (double)  marks1 / maxscore * 100.0d;
         System.out.println("Your Percentage is " + percentage + "%");
-
+        System.out.println(Math.round(percentage));
     }
 }
