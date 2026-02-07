@@ -2,7 +2,10 @@ package com.javawithsteven;
 
 import java.util.Scanner;
 
-public class javaRecursion {
+public class JavaRecursion {
+
+    final int glb2 = 2418;
+
     public static void main(String[] args){
         System.out.println("Java Recursion :");
 
