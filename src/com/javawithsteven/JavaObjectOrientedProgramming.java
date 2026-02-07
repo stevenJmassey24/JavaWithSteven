@@ -23,5 +23,6 @@ public class JavaObjectOrientedProgramming {
         //object2.glb2 = 1824;
         System.out.println("Updated value of a final attribute, it will throw error: java: cannot assign a value to final variable glb2");
         //java: cannot assign a value to final variable glb2
+
     }
 }
